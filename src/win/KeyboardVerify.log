@@ -1,0 +1,8 @@
+    WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_6, ShiftState 'Ctl+Alt' and VK_6, ShiftState 'Shift').
+    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_9, ShiftState 'Ctl+Alt').
+    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Ctl+Alt' and VK_9, ShiftState 'Ctl+Alt').
+    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift+Ctl+Alt' and VK_OEM_3, ShiftState 'Shift').
+    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Ctl+Alt' and VK_OEM_3, ShiftState 'Shift').
+    WARNING: ' (U+0027) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctl+Alt' and VK_OEM_7, ShiftState 'Base').
+    WARNING: " (U+0022) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Shift+Ctl+Alt' and VK_OEM_7, ShiftState 'Shift').
+    WARNING: '¦' defined on OEM_102 (Shift+Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
